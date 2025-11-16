@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub
 
 ## About Me
-I'm **Zild Jian X TO**, a software developer committed to crafting robust and scalable applications.  
+I'm **Tristan Fidelio**, a software developer committed to crafting robust and scalable applications.  
 I enjoy learning cutting-edge technologies and applying best practices to solve complex problems efficiently.
 
 ---
