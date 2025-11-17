@@ -9,7 +9,7 @@ I enjoy learning cutting-edge technologies and applying best practices to solve 
 ## 🎯 Focus Areas
 
 - **Languages & Technologies:**  
-  Java · JavaScript · Python · SQL (MySQL) · C · Lua  
+  Java · JavaScript · Python · SQL (MySQL) · Lua  
 
 - **Development Domains:**  
   Game Scripting · Backend Systems · Inventory & Membership Solutions  
@@ -19,26 +19,12 @@ I enjoy learning cutting-edge technologies and applying best practices to solve 
 
 ---
 
-## 🛠️ Skills & Tools
-
-- **Programming:**  
-  Object-Oriented Programming (OOP), CRUD Operations, Algorithms  
-
-- **Languages:**  
-  Java, JavaScript, Python, SQL, C, Pawn, Lua  
-
-- **Tools & Platforms:**  
-  VS Code, Git, HeidiSQL, MySQL, PostgreSQL, NetBeans
-
----
-
 ## 🧰 Tech Stack
 <p align="left">
   <img alt="Java" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="JavaScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="MySQL" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img alt="Python" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="C" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img alt="Lua" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 </p>
 
