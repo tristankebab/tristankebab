@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub
 
 ## About Me
-I'm **Tristan Fidelio**, a developer committed to crafting robust and scalable applications.  
+I'm **Tristan Fidelio**, a software developer committed to crafting robust and scalable applications.  
 I enjoy learning cutting-edge technologies and applying best practices to solve complex problems efficiently.
 
 ---
@@ -9,7 +9,7 @@ I enjoy learning cutting-edge technologies and applying best practices to solve 
 ## 🎯 Focus Areas
 
 - **Languages & Technologies:**  
-  Java · JavaScript · Python · SQL (MySQL) · C  
+  Java · JavaScript · Python · SQL (MySQL) · C · Lua  
 
 - **Development Domains:**  
   Backend Systems · Game Scripting · Inventory & Membership Solutions  
@@ -25,7 +25,7 @@ I enjoy learning cutting-edge technologies and applying best practices to solve 
   Object-Oriented Programming (OOP), CRUD Operations, Algorithms  
 
 - **Languages:**  
-  Java, JavaScript, Python, SQL, C, Pawn  
+  Java, JavaScript, Python, SQL, C, Pawn, Lua  
 
 - **Tools & Platforms:**  
   VS Code, Git, HeidiSQL, MySQL, PostgreSQL, NetBeans
@@ -39,6 +39,7 @@ I enjoy learning cutting-edge technologies and applying best practices to solve 
   <img alt="MySQL" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img alt="Python" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="C" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="Lua" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 </p>
 
 ---
